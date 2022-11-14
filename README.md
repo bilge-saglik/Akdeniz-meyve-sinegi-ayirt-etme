@@ -1,2 +1,3 @@
 # Akdeniz-meyve-sinegi-ayirt-etme
-Proje hala devam ediyor.
+Makine öğrenmesiyle görüntü işlemenin kullanıldığı proje hala devam ediyor.
+
